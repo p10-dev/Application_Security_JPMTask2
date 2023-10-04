@@ -1,2 +1,2 @@
-# JPMorgan_VE_Program_Task2
-J.P.Morgan Cybersecurity Virtual Experience Program
+# Application_Security_JPMTask2
+This task uses the Django administrator panel to enhance the security of a web application by establishing a 2FA on login.
